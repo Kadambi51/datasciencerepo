@@ -54,3 +54,7 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
+Changes Made:
+The training and the testing datasets have been merged together.
+And all of the above functions have been estimated from the training and testing datasets used.
+
